@@ -1,0 +1,7 @@
+arguments: D:/deepface/align/align_dataset_mtcnn.py
+--------------------
+tensorflow version: 1.15.0
+--------------------
+git hash: b'1626b93b08127dfd187d3fafa715ebf6f6123259'
+--------------------
+b''

@@ -1,0 +1,2 @@
+D:\deepface\my_dataset_out\liruijie\liruijie_10.png 1295 1248 4106 4918
+D:\deepface\my_dataset_out\test\test_1.png 1295 1248 4106 4918

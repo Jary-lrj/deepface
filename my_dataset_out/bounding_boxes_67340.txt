@@ -1,0 +1,1 @@
+D:\deepface\my_dataset_out\test\test_1.png 268 82 461 311
